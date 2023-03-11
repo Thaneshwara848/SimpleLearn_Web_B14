@@ -1,0 +1,84 @@
+Front End : 
+	HTMl 
+	Css 
+	BootStracp 
+	JavaScript 
+	Angualr 
+
+
+Phase - 1 : Core java :
+					 Basics :statments , Loops , jumping , operators , Data types , etc..!
+					 OOps , :Inheritance,PolyMorhism,Abstraction, Excupulation class & obj 
+					 Exceptions,2 types : COmp time/ checked   && run time/ uncheck 
+					 Multithred,: can be achived using Thread class / Runnable Interface 
+					 Collection, : 
+										List :Array List , Linked LIST, Vactor , Map 													 Set , : HashSet , Linked hashSet  treeSetSet 
+										Quee,
+										 MAP : hashMap , Linked hash map , TreeMap 
+				 
+				    Junit,
+				 	 Data Structure 
+											
+Phase - 2 : web Prog  : 
+					JDBC, 
+					Servlet ,
+					JSP ,
+					JSTL ,
+					HIbernate 
+Phase - 3 : Spring & Boot & Devops  :
+				  Spring Core ,
+				  Spring Hibernate , 
+				  Spring MVC 
+				  Spring Data JPA,
+				  Spring Web,
+				  Spring Secuirity,
+				  Spring AOP ,
+				  Spring JDBC ,
+				  Spring Boot ,
+				  Spring Cloud  
+			
+Phase - 4 : Web Freamwork with Angualr JS  : 
+ 					HTML 
+					CSS
+					Java Script 
+					Type Script 
+					Angular 
+
+
+
+FULL stack Developer  : Web Browser
+
+Front End 												MEAN 						MERN 
+				html ,css ,
+				 javaScript								Angualr					ReactJS
+	
+Midleware :
+		 java  : Server : Tomcat server 			NodeJS						NOdeJS
+				Servlet/jsp- jdbc-------DB :			ExpressJS					ExpressJS
+				Spring MVC- HIbernate --DB : 
+				Spring Boot web- JPA ---DB :
+
+		Python : Server : http 
+					DJango/ Flask 
+		.net   : Server IIS
+					ASP .net / ADO .net  
+			
+Back End : 
+			Database: Mysql , oracle						MongoDB 				MongoDB
+
+Devops : 
+
+
+
+GIT bash & Git Hub  : https://git-scm.com/downloads
+VS code  				 : https://code.visualstudio.com/download
+Node JS 				 : https://nodejs.org/en/download/
+Post MAN Tool 		 : https://www.postman.com/downloads/
+
+
+
+
+
+
+
+
